@@ -23,6 +23,9 @@ contract HiveAgentRegistry {
         _;
     }
 
+        constructor() {
+        owner = msg.sender;
+    }
     
 function registerAgent(string memory subdomain, string memory metadataHash) public {
         agents[msg.sender] = Agent(subdomain, metadataHash, true);
