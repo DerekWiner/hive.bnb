@@ -4,9 +4,9 @@
   "description": "Hive.bnb is the structural and organizational substrate of the Alvearium OS. It anchors naming protocols, swarm logic, and cryptographic trust behaviors.",
   "version": "v0.1-alpha",
   "anchors": {
-    "anchors.md": "https://arweave.net/gU742_NxFAZ_WC2XNyYZzwWEddfgyIR4kezHPAG-EQk",
-    "anchors_metadata.md": "https://arweave.net/72JHE_62L8OU3OPnHiNsiapF2gWlvay-lMNlPFUX3iQ",
-    "anchors_manifest_hash.md": "https://arweave.net/YK4h0pepnRw5lFmxwA9-61ODxEbnlyCSFznH9DUfhyQ"
+    "anchors.md": "https://arweave.net/SBA7Fjwj9v7Z7nnSxSXFOMefA2DXenYKAi0oByKpSd0",
+    "anchors_metadata.md": "https://arweave.net/i-Io7Qy_S5HzWcQoJdEMI1NTx3J9AwFvYZaTFeHe470",
+    "anchors_manifest_hash.md": "https://arweave.net/pg5AlvJylepa1WqWwWHqKO55F_v0GeeHRpB4sjOB7VQ"
   },
   "documents": {
     "manifesto": "https://arweave.net/4hgAIpSfbVKMQhfCQZPl8iZD6WMHWnjvfioo_ASSCJU",
